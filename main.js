@@ -1,5 +1,5 @@
 // main.js
-import { getLista, adicionaNaLista, limpaLista } from "./lista.js";
+import { getLista, adicionaNaLista, limpaLista, removeDaLista } from "./lista.js";
 
 const pEntrada = document.querySelector('#entrada');
 const olSaida = document.querySelector('#itens');
